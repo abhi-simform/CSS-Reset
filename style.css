@@ -6,10 +6,6 @@
   box-sizing: border-box;
 }
 
-:root {
-  color-scheme: light dark;
-}
-
 html,
 body {
   min-height: 100vh;
