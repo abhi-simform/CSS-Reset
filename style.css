@@ -1,10 +1,13 @@
+:root {
+  interpolate-size: allow-keywords;
+}
+
 *,
 *::after,
 *::before {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  interpolate-size: allow-keywords;
 }
 
 :has(:target) {
