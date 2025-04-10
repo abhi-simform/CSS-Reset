@@ -20,10 +20,6 @@ body {
   min-height: 100vh;
 }
 
-html {
-  hanging-punctuation: first last;
-}
-
 body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
